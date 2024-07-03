@@ -362,6 +362,15 @@ nav ul li {
     justify-content: center; 
 }
 
+.resume-container pdf {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+}
+
+.resume-container h2 {
+    text-align: center;
+}
+
 .contact {
     padding: 32px 0;
     margin-top: 2rem;
